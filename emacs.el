@@ -1,4 +1,4 @@
-;; cd .. out of home, then 'emacs ~/emacs.el'
+;; in home directory, 'emacs ~/emacs.el'
 
 ;; M-x package-list-packages
 ;; Ctrl-Alt-x inside lisp command tests the command
